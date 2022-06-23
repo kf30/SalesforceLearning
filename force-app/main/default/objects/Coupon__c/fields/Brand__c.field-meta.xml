@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brand__c</fullName>
+    <externalId>false</externalId>
+    <label>Brand</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Amazon</fullName>
+                <default>false</default>
+                <label>Amazon</label>
+            </value>
+            <value>
+                <fullName>Flipkart</fullName>
+                <default>false</default>
+                <label>Flipkart</label>
+            </value>
+            <value>
+                <fullName>Myntra</fullName>
+                <default>false</default>
+                <label>Myntra</label>
+            </value>
+            <value>
+                <fullName>Ajio</fullName>
+                <default>false</default>
+                <label>Ajio</label>
+            </value>
+            <value>
+                <fullName>Souled Store</fullName>
+                <default>false</default>
+                <label>Souled Store</label>
+            </value>
+            <value>
+                <fullName>Pantaloons</fullName>
+                <default>false</default>
+                <label>Pantaloons</label>
+            </value>
+            <value>
+                <fullName>FBB</fullName>
+                <default>false</default>
+                <label>FBB</label>
+            </value>
+            <value>
+                <fullName>Westside</fullName>
+                <default>false</default>
+                <label>Westside</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
